@@ -4,12 +4,18 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Grupo de mexicanos comprometidos con la divulgación de avances científicos en estadística y salud. Nuestro objetivo es poder transmitir información útil a toda la población mexicana sin necesidad de usar lenguaje técnico o conceptos complicados.
 
-### More Information
+### Colaboradores
 
-A place to include any other types of information that you'd like to include about yourself.
+* Ernesto Ulloa
+* Jesús Arroyo
+* Natalie Gasca
+* Susana Lozano-Esparza
+* Antonio Olivas
+* Pedro Orozco del Pino
 
-### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+### Contacto
+
+[mxciencia@gmail.com](mailto:mxciencia@gmail.com)
