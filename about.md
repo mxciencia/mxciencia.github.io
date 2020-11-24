@@ -15,7 +15,7 @@ Grupo de mexicanos comprometidos con la divulgación de avances científicos en 
 * [***Antonio Olivas:***](https://www.biostat.washington.edu/people/antonio-olivas-martinez) Antonio es licenciado en Matemáticas por la Universidad de Sonora, Médico especialista en Medicina Interna por el INCMNSZ-UNAM y estudiante de doctorado en Bioestadística en la Universidad de Washington. Sus intereses son desarrollar y aplicar métodos estadísticos al campo de la medicina y promover la correcta interpretación de la evidencia médica por el personal de salud.
 * [***Pedro Orozco del Pino:***](https://sph.umich.edu/biostat/phd-student-profiles/orozco%20del%20pino-pedro.html) Pedro es licenciando en Matemáticas Aplicadas por el ITAM, maestro en  Estadística por el CIMAT, y candidato a doctor en Bioestadística por la Universidad de Michigan. Está interesado en métodos estadísticos aplicados a genética, medicina y biología.
 
-Si quiere unirte al equipo, escríbenos a nuestro [correo](mailto:mxciencia@gmail.com) o [Twitter](https://twitter.com/Mx_Ciencia).
+Si quieres colaborar o unirte al equipo, escríbenos a nuestro [correo](mailto:mxciencia@gmail.com) o [Twitter](https://twitter.com/Mx_Ciencia).
 
 ### Contacto
 
